@@ -2645,9 +2645,11 @@ em{
     font-weight:bold;
     font-size:0.8125rem
 }
+
+/* change kontur area of the map  */
 .impact-map-area{
     width:100%;
-    height:400px;
+    height:800px;
     position:relative
 }
 .project-map-area{
@@ -4043,7 +4045,7 @@ sup{
 }
 #where-we-work-legend-details{
     position:absolute;
-    right:5px;
+    right:365px;
     top:24px
 }
 @media (max-width: 798px){
