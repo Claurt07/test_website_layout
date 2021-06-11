@@ -2650,7 +2650,8 @@ em{
 .impact-map-area{
     width:100%;
     height:100%;
-    position:relative
+    position:relative;
+    padding-left: 5.5%;
 }
 .project-map-area{
     height:560px;
